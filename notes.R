@@ -52,6 +52,10 @@ for (fp in to_process)
   xml_name(notes) <- "sup"
   xml_set_attr(notes, attr = "className", value = "tooltip")
 
+  quote <- xml_find_all(x, ".//d1:quote")
+  xml_name(quote) <- "div"
+  xml_set_attr(quote, attr = "className", value = "emquote")
+
   for (i in seq_along(notes))
   {
     p <- xml_find_all(notes[i], "./d1:p")
@@ -69,11 +73,6 @@ for (fp in to_process)
   body <- xml_find_first(x, ".//d1:body")
   xml_name(body) <- "div"
   xml_set_attr(body, attr = "className", value = "text-holder")
-
-  quote <- xml_find_first(x, ".//d1:quote")
-  xml_name(quote) <- "div"
-  xml_set_attr(quote, attr = "className", value = "emquote")
-
 
   write_html(body, file.path("html", paste0(fp, ".html")))
 
