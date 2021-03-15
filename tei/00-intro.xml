@@ -74,8 +74,8 @@ points in the struggle over what counted as social knowledge, how to
 accurately represent social conditions, and who could produce such
 knowledge. Our digital platform is organized into layers that each
 correspond to a key question motivating our analysis.</p>
-<p>The concept of layers reflects our methodology, which brings together
-the concept of rhetorical ecology with the spatial turn and
+<p>The organization of our text into layers reflects our methodology, which
+brings together the concept of rhetorical ecology with the spatial turn and
 computational text analysis in digital humanities. The rhetorical
 ecology approach emerged from rhetoric and composition studies to better
 understand how types of rhetoric, notably texts, were invented.<note>
@@ -92,7 +92,8 @@ understand how types of rhetoric, notably texts, were invented.<note>
   Composition Classroom,” <hi rendition="simple:italic">College
   Composition and Communication</hi>, 2014, 301.</p>
 </note><note>
-</note> It calls for a move away from focusing on individual writers
+</note> It calls for a move away from focusing on the thought process of
+individual writers
 towards an analysis of the larger ecosystem in which the writing occurs
 and the social processes and power structures that shape such systems.
 Rhetorical ecology places the collection of life histories within a
@@ -122,7 +123,7 @@ modality of our text shaped, and was shaped by, our methods and form of
 writing.</p>
 </collapse>
 <collapse trigger="The Layers">
-<p>Layer 1: Motivation for the SLHP explores the motivation for the
+<p><em>Layer 1: Motivation for the SLHP</em> explores the motivation for the
 creation of life histories by demonstrating how Chapel Hill came to be
 the center of debates over sociological knowledge production and how to
 define the South during the early 1900s. As Director UNC Press in Chapel
@@ -140,7 +141,7 @@ sociological features. Couch argued that both qualitative and quantitive
 approaches obscured the voices of the people by relying on faceless
 statistics or vague abstractions. Instead, he desired to create a new
 method of documentation that let the people speak for themselves.</p>
-<p>Layer 2: The Formation of the SLHP details how the project formed
+<p><em>Layer 2: The Formation of the SLHP</em> details how the project formed
 within the Federal Writers’ Project. As a New Deal agency, the FWP was
 part employment project and part laudatory experiment in federal support
 of cultural work.<note>
@@ -159,7 +160,7 @@ of cultural work.<note>
   in Government Patronage of the Arts</hi> (Urbana: University of
   Illinois Press, 1977).</p>
 </note> Shaped by emerging documentary practices that privileged
-folkways as well as institutional possibilities made possible by the
+folkways as well as institutional possibilities created by the
 vast bureaucratic infrastructure of the FWP, the documentation of “life
 histories” was Couch’s answer to the debate between sociologists over
 how to best capture the real nature of Southern life.<note>
@@ -175,9 +176,10 @@ workers, hired as federal writers, across the Southeast region to
 interview fellow Southerners about their lives. The ability to hear from
 Southerners in their words, Couch argued, lent authority and
 authenticity to their claims about their conditions.</p>
-<p>Through visual and textual forms of argument, Layer 3: Defining Life
-Histories and Qualified Writers turns to mapping the topology of
-interlocuters that shaped the purpose and possibilities of the SLHP.
+<p><em>Layer 3: Defining Life
+Histories and Qualified Writers</em> turns to mapping the topology of the
+interlocuters that shaped the purpose and possibilities of the SLHP through
+visual and textual forms of argument.
 Writers, editors, and administrators negotiated and forged a new method
 of social documentation that they believed could provide a mechanism to
 understand the challenges of the American South as articulated by those
@@ -208,7 +210,8 @@ expertise, and proximity shaped who could be a writer. Rather than
 seeking highly disciplined academics, the SLHP sought writers who they
 believed could access the desired communities, listen, and effectively
 write the history recounted for a more general audience. White women
-writers dominated because of their positionality in southern society,
+writers dominated the process
+because of their positionality in southern society,
 which was shaped by gendered and racialized ideas that White women were
 better equipped to put interviewees at ease, record information and
 access the domestic spaces in which the interviews occurred. The hiring
@@ -218,7 +221,8 @@ men were systematically denied such opportunities due to racist hiring
 practices that disqualified Black candidates and segregationist beliefs
 that African American and White writers could not work in the same
 office space.</p>
-<p>In Layer 4: Rhetorical Strategies and Representation, we identify the
+<p>In <em>Layer 4: Rhetorical Strategies and Representation</em>,
+we identify the
 rhetorical strategies used in the life histories that were developed to
 persuade the reader that they were hearing the person interviewed by
 using text analysis methods. Writers, editors and administrators
@@ -245,8 +249,8 @@ of what counted as social documentation, collective memory, and regional
 identity. For two brief years, the SLHP offered a different direction
 for social documentary. They attempted to reconfigure what counted as
 data and evidence about social conditions. Numbers and percentages could
-only tell part of the story. The richness of individual stories, as told
-from their point of view, offered another lens into society. They were
+only tell part of the story. The richness of individual stories, as told from
+interviewees’ point of view, offered another lens into society.  They were
 “human” in a way that statistics could not capture. As we look today to
 numbers and big data as a privileged form of knowledge about our world,
 looking back to the SLHP offers an earlier moment where there were
@@ -269,10 +273,10 @@ Southerner during a time of political, social and economic unrest. While
 we address these themes, there are many exciting directions to take to
 understand these SLHP, which the reader can see by moving through
 exploratory interfaces or by analyzing
-the <hi rendition="simple:italic">List Histories Data Set</hi>. We
+the <hi rendition="simple:italic">Life Histories Data Set</hi>. We
 invite the reader to pose and answer questions of your own. We hope that
 by moving through this digital text, the reader sees how our argument
-unfolds in new ways made possible by combining innovations in methods
+unfolds in new ways made possible by combining innovative methods
 with new affordances of the digital medium.</p>
 </collapse>
 </body>
